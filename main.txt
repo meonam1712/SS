@@ -1,6 +1,6 @@
 <--------->
 Nhen Con 
 a = nhen
-b = ..... > <........
+b = ..... > FIX BUG FIX BUG LA LA LA<........
 c = a 
 <--------->
